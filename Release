@@ -1,0 +1,12 @@
+Origin: FunTweaks
+Label: FunTweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks for Fun Apps!
+
+SHA256:
+ 4ebcfaf72ec75ba7dcda6af0de355039a1d01bb3662a5203a88489ed81625031 658 Packages.bz2
+ 096fdfec5694da1e1fa5cdb9fd7267d4a87e54aec7c78186ef849de8da95e994 648 Packages.xz
