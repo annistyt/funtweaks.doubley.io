@@ -3,18 +3,18 @@ Label: FunTweaks
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Components: main
 Description: Tweaks for Fun Apps!
 MD5Sum:
- 5227060dd5a00a5ff5ef93f341910ddd 1106 Packages
- 1161bf9c1ec2eb165bed085d0540ccf6 654 Packages.bz2
- 0615191372015967ba41d56f799c2453 632 Packages.xz
+ 1a1ed5c9a877326ab850d4e30cd0f336 486 Packages
+ bc54ec5dd8f14d2d29ff468de453f377 388 Packages.bz2
+ 7ffbedc91eabc8a34a00b63e38184009 412 Packages.xz
 SHA1:
- f6b509b0053914cea5f5c4d29b9fa0ed4fbc0f53 1106 Packages
- 717c81fe7fa43f66df387debeac6aa400aaeb0b7 654 Packages.bz2
- b8c70aface2b5f46f8b9d28c5736987b8deeaa3b 632 Packages.xz
+ d3306a177c4b9f89417665d202ce53a8637e214c 486 Packages
+ 3359c87b3452a01392b415834541afcb727602d4 388 Packages.bz2
+ 88629bfc4c1d4b5041658aee8df2e52efbc9371e 412 Packages.xz
 SHA256:
- 578beb6ffb0c69c786cbfe4d5fbc37956f3b49179e820f47bb3f6a1895da4141 1106 Packages
- d9ec96a488aff96945a4cc9c7c82822824b627b3a03df5b10c1c2e0480f316f3 654 Packages.bz2
- 8ebbb2e3d746f0d4967ba090f6d21852bba4f03247c62fce4addb00d58d27510 632 Packages.xz
+ d379f70e1dab66af076920ee8704affabe7c4e3662ecc84cc4e52704a30bdbf0 486 Packages
+ e0a7050afdeb7287e61a844d10aed11f3364e2ffef20cd65424e1383e6598d73 388 Packages.bz2
+ 2a2af4c8c596d747abecb116e150670e75714ef3f21b653d49bd68919f38efb4 412 Packages.xz
