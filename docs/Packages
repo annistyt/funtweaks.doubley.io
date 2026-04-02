@@ -13,7 +13,7 @@ Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhook
 Tags: compatible_min::ios15.0, compatible_max::ios16.7, compatible_min_ios :: 14.0
 Author: Andreas <annistyt@gmail.com>
 Maintainer: Andreas <annistyt@gmail.com>
-Filename: docs/pkg/com.andreas.issbypass.deb
+Filename: pkg/com.andreas.issbypass.deb
 Size: 6180
 MD5sum: a23d20db0f1e0d3b225da0c2d33822ff
 SHA1: e850cefb86c6048905c5f025eeba7e93f8b1849d
@@ -29,7 +29,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 2.0.0
 Installed-Size: 304
-Filename: docs/pkg/co.cheapshot.michelin_2.0.0_iphoneos-arm64.deb
+Filename: pkg/co.cheapshot.michelin_2.0.0_iphoneos-arm64.deb
 Size: 45952
 MD5sum: 912058f4ef2fd339be14e322e5f2faef
 SHA1: 55f025a88dd7ee14ac96b2f9d4c77146bdfc284e
