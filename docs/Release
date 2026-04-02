@@ -1,20 +1,20 @@
-Origin: FunTweaks
-Label: FunTweaks
+Origin: funtweaks
+Label: funtweaks
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: stable
 Architectures: iphoneos-arm64
 Components: main
-Description: FunTweaks APT Repository
+Description: Fun Tweaks Repo
 MD5Sum:
- 97ba9bec6e36c671b5fa7f1d651bed9f 1708 Packages
- bdb0dd8a43b036a3b6e228f1c80f4129 976 Packages.bz2
- be03abdc05d086517479c074e688d950 912 Packages.xz
+ 1952eef0d895e572874a48b2f0caf792 1930 Packages
+ 97b17bb16f37a5d8780a2e811d33538a 1001 Packages.bz2
+ 72aca89e87541ca56ba0157edeb5ccac 912 Packages.xz
 SHA1:
- 56488c909a8b9fe968fb59a320d4beb991091639 1708 Packages
- 9d11d9a8592771e53f77129f7c17852170ea8f89 976 Packages.bz2
- 3a0982d8cc6fe417115727025d31799139510dc1 912 Packages.xz
+ 95415af52019ea0313ede1868f0d6fbc2eb0c199 1930 Packages
+ 34ec7263e3cc8c48c15177d8bcc7a637c0d6133d 1001 Packages.bz2
+ 424ceebea20672713773f0f7b8c7cff8c7b7544f 912 Packages.xz
 SHA256:
- c6bd3bfaae26846bdfb8b3554677d0a6ffb59246c583cfe068c737e55145dd60 1708 Packages
- e46c091b92e97c1b07ebe47d86d6b38791022e04d712a0fc2e6554ddea065e3d 976 Packages.bz2
- 93bfcf418aa8c933ffb00088a1a808c950d0893549745cfe3f520ca27358bd15 912 Packages.xz
+ 2d6e3e6e41c6dbb5ecc686b01079abbae30101829eec7388c9551a925adc58b9 1930 Packages
+ 6178998193c2b42857379590ab579df0c26663d322d45ea6d33f7e16c4d43b51 1001 Packages.bz2
+ a3e82307482e4e13bb14ed9d276797598faa1d79ead363e575ece4f8d8a5074c 912 Packages.xz

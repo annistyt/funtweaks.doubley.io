@@ -15,23 +15,33 @@ Author: Andreas <annistyt@gmail.com>
 Maintainer: Andreas <annistyt@gmail.com>
 Filename: pkg/com.andreas.issbypass.deb
 Size: 6180
-MD5sum: a23d20db0f1e0d3b225da0c2d33822ff
-SHA1: e850cefb86c6048905c5f025eeba7e93f8b1849d
 SHA256: b0ea8764352b2c50cc79bf85ca3eb558fe1e9fd654596a9cd02bc219a7cfb085
 
-Package: co.cheapshot.michelin
-Name: Cheapshot Michelin Menu
+Package: com.ytterstad.gpsjoystick
+Name: GpsJoystick
+Description: GPS location spoofer with in-game joystick overlay
+Maintainer: Ytterstad
+Author: Ytterstad
+Section: Tweaks
 Depends: mobilesubstrate
-Description: All-in-one Cheapshot tweak — zoom, plant loader, boost, filters, expiry labels, bot/player hiding, live player counter, UI menu. By Ytterstad.
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 172
+Filename: pkg/com.ytterstad.gpsjoystick_1.0_iphoneos-arm64.deb
+Size: 13244
+SHA256: 10f503bbdbb61db9ba923ff4ec8a63f32ae815f3ab2e4aee1fdbcac4d513f3ac
+
+Package: com.ytterstad.michelinmenu
+Name: MichelinMenu
+Depends: mobilesubstrate
+Description: All-in-one tweak — zoom, plant loader, boost, filters, expiry labels, bot/player hiding, live player counter, UI menu. By Ytterstad.
 Maintainer: Ytterstad
 Author: Ytterstad
 Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 2.0.0
 Installed-Size: 304
-Filename: pkg/co.cheapshot.michelin_2.0.0_iphoneos-arm64.deb
-Size: 45952
-MD5sum: 912058f4ef2fd339be14e322e5f2faef
-SHA1: 55f025a88dd7ee14ac96b2f9d4c77146bdfc284e
-SHA256: f8254495687238eb2a00fc72d875254614f591c1b5e2307bf157d9b11a6c7b58
+Filename: pkg/com.ytterstad.michelinmenu_2.0.0_iphoneos-arm64.deb
+Size: 45690
+SHA256: eadbbe9271b6db0e3e9b4e75d23e12fe5f22568d477714bf65120d8e88564e2f
 
