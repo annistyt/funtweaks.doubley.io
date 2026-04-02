@@ -5,16 +5,16 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Tweaks for Fun Apps!
+Description: FunTweaks APT Repository
 MD5Sum:
- 1a1ed5c9a877326ab850d4e30cd0f336 486 Packages
- bc54ec5dd8f14d2d29ff468de453f377 388 Packages.bz2
- 7ffbedc91eabc8a34a00b63e38184009 412 Packages.xz
+ 97ba9bec6e36c671b5fa7f1d651bed9f 1708 Packages
+ bdb0dd8a43b036a3b6e228f1c80f4129 976 Packages.bz2
+ be03abdc05d086517479c074e688d950 912 Packages.xz
 SHA1:
- d3306a177c4b9f89417665d202ce53a8637e214c 486 Packages
- 3359c87b3452a01392b415834541afcb727602d4 388 Packages.bz2
- 88629bfc4c1d4b5041658aee8df2e52efbc9371e 412 Packages.xz
+ 56488c909a8b9fe968fb59a320d4beb991091639 1708 Packages
+ 9d11d9a8592771e53f77129f7c17852170ea8f89 976 Packages.bz2
+ 3a0982d8cc6fe417115727025d31799139510dc1 912 Packages.xz
 SHA256:
- d379f70e1dab66af076920ee8704affabe7c4e3662ecc84cc4e52704a30bdbf0 486 Packages
- e0a7050afdeb7287e61a844d10aed11f3364e2ffef20cd65424e1383e6598d73 388 Packages.bz2
- 2a2af4c8c596d747abecb116e150670e75714ef3f21b653d49bd68919f38efb4 412 Packages.xz
+ c6bd3bfaae26846bdfb8b3554677d0a6ffb59246c583cfe068c737e55145dd60 1708 Packages
+ e46c091b92e97c1b07ebe47d86d6b38791022e04d712a0fc2e6554ddea065e3d 976 Packages.bz2
+ 93bfcf418aa8c933ffb00088a1a808c950d0893549745cfe3f520ca27358bd15 912 Packages.xz

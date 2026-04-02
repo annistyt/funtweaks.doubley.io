@@ -1,13 +1,37 @@
+Architecture: iphoneos-arm64
 Package: com.andreas.issbypass
 Name: IOSSecuritySuite Bypass
 Version: 1.0-1+debug
-Architecture: iphoneos-arm64
+Depiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/web/com.andreas.issbypass.html
+SileoDepiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/native/com.andreas.issbypass.json
+ModernDepiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/native/com.andreas.issbypass.json
+Icon: https://annistyt.github.io/funtweaks.doubley.io/assets/com.andreas.issbypass/icon.png
 Description: Bypasser IOSSecuritySuite sin jailbreak/debug-deteksjon
+Homepage: https://shuga.co/
+Section: Tweaks
+Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhooker-devel | substitute
+Tags: compatible_min::ios15.0, compatible_max::ios16.7, compatible_min_ios :: 14.0
 Author: Andreas <annistyt@gmail.com>
 Maintainer: Andreas <annistyt@gmail.com>
-Section: Tweaks
 Filename: pkg/com.andreas.issbypass.deb
 Size: 6180
 MD5sum: a23d20db0f1e0d3b225da0c2d33822ff
 SHA1: e850cefb86c6048905c5f025eeba7e93f8b1849d
 SHA256: b0ea8764352b2c50cc79bf85ca3eb558fe1e9fd654596a9cd02bc219a7cfb085
+
+Package: co.cheapshot.michelin
+Name: Cheapshot Michelin Menu
+Depends: mobilesubstrate
+Description: All-in-one Cheapshot tweak — zoom, plant loader, boost, filters, expiry labels, bot/player hiding, live player counter, UI menu. By Ytterstad.
+Maintainer: Ytterstad
+Author: Ytterstad
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Installed-Size: 304
+Filename: pkg/co.cheapshot.michelin_2.0.0_iphoneos-arm64.deb
+Size: 45952
+MD5sum: 912058f4ef2fd339be14e322e5f2faef
+SHA1: 55f025a88dd7ee14ac96b2f9d4c77146bdfc284e
+SHA256: f8254495687238eb2a00fc72d875254614f591c1b5e2307bf157d9b11a6c7b58
+
