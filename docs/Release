@@ -7,6 +7,6 @@ Architectures: iphoneos-arm64
 Components: main
 Description: Fun Tweaks by Ytterstad
 SHA256:
- 3ecdcb4fc3427aac8938192e8405c5c6e92469f8ebedf786e45589c648134428 788 Packages
- 1dbcdcef6f6fd358075b8773f48c7240da1dc18582e6b70e73764a169eb6ef66 514 Packages.bz2
- f45ab4be1131fe804ed4cff97dc97ceb36eea5e01c6a262605484e6efad26a0a 504 Packages.xz
+ 655894d76ce12d73a5c5e8a5ed8d7e492597d9f49fe68333b753f8d4041d0c6b 788 Packages
+ 3b727d580d19911b22286f22bcb84f2cbeb31b07f37e4f3e19304f9482e905d1 513 Packages.bz2
+ a1bf964d812b40c2888b2aea80ec7a2c0dcd1d654ac7ba2fe7043f38fd0fbbbc 508 Packages.xz

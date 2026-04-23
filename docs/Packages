@@ -11,14 +11,14 @@ Description: GPS Joystick tweak for Cheapshot
 Name: GpsJoystick
 
 Package: com.ytterstad.michelinnative
-Version: 3.0.0
+Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: Ytterstad
 Depends: mobilesubstrate
-Filename: ./pkg/com.ytterstad.michelinnative_3.0.0_iphoneos-arm64.deb
-Size: 24416
-MD5sum: c06df81dd300f706e8ea8fcfd3d844ef
-SHA256: 07eb867c3da61f5bf7233c5858c49ef99031859fadb99370f9ec62c79d31a7ab
+Filename: ./pkg/com.ytterstad.michelinnative_3.0.1_iphoneos-arm64.deb
+Size: 24340
+MD5sum: 19253779449c8af5ed30ddbc6ae18bca
+SHA256: 29a466fe6f82d3cd1d179e7ea235cc171faddc9ace04cba33688a0b6b7b5b9c9
 Section: Tweaks
 Description: Cheapshot Michelin Menu — by Ytterstad
 Name: MichelinNative
