@@ -53,8 +53,8 @@ Author: Ytterstad
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 2.3.0
-Installed-Size: 144
-Filename: pkg/com.ytterstad.michelinnative_2.3.0_iphoneos-arm64.deb
-Size: 27180
-SHA256: 67c9461450d4d1e563d8b272ba4d03fd79eb919f3aadd63b87c674d784e47a1a
+Version: 2.4.0
+Installed-Size: 140
+Filename: pkg/com.ytterstad.michelinnative_2.4.0_iphoneos-arm64.deb
+Size: 35972
+SHA256: c3b91ee7bfb031838d8c1d6ed6f79f6812ddc712a0843fc0de48a73ef365b595
