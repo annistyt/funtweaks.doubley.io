@@ -56,5 +56,5 @@ Architecture: iphoneos-arm64
 Version: 2.1.0
 Installed-Size: 164
 Filename: pkg/com.ytterstad.michelinnative_2.1.0_iphoneos-arm64.deb
-Size: 31620
-SHA256: 9776be639f4786b8186181c470f2750b90af828198e133e7bad2ccc11f0624c0
+Size: 31640
+SHA256: 42dedd6abeaab5674bc0c928994f96d371f10380ca297e391d2718133d8a1ccd
