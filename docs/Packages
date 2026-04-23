@@ -47,14 +47,14 @@ SHA256: eadbbe9271b6db0e3e9b4e75d23e12fe5f22568d477714bf65120d8e88564e2f
 
 Package: com.ytterstad.michelinnative
 Name: MichelinNative
-Description: Native ObjC tweak — zoom, boost, filters, expiry labels, bot/player hiding, live player counter, GPS joystick, auto upgrade, UI menu. By Ytterstad.
+Description: Native ObjC tweak — zoom, boost, filters, expiry labels, bot/player hiding, live player counter, GPS joystick, auto upgrade, ISS bypass, UI menu. By Ytterstad.
 Maintainer: Ytterstad
 Author: Ytterstad
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 2.2.0
-Installed-Size: 164
-Filename: pkg/com.ytterstad.michelinnative_2.2.0_iphoneos-arm64.deb
-Size: 27224
-SHA256: 1019abc032d4125778c5e3ce34677493ad8086c6c1f6ea50409d6be0ce7f8ec9
+Version: 2.3.0
+Installed-Size: 144
+Filename: pkg/com.ytterstad.michelinnative_2.3.0_iphoneos-arm64.deb
+Size: 27180
+SHA256: 67c9461450d4d1e563d8b272ba4d03fd79eb919f3aadd63b87c674d784e47a1a
