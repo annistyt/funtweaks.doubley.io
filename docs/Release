@@ -1,20 +1,12 @@
-Origin: funtweaks
-Label: funtweaks
+Origin: Ytterstad
+Label: Ytterstad's Tweaks
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Fun Tweaks Repo
-MD5Sum:
- 8707ccf861177d90c2caf8d2e819c6ad 2462 Packages
- 4c7a81ea4a59b4a2cee39ab7d5a62503 1137 Packages.bz2
- e5510c6d3cca9b5a32c7523484e11186 1028 Packages.xz
-SHA1:
- 8c0ba534768cf5c32501400f18766e58078cd3ac 2462 Packages
- 2e807887902748c9b09b0d65e0b38a7cfe6ec74c 1137 Packages.bz2
- b783ce90cd50271286e8ddcc6412b615e62a5975 1028 Packages.xz
+Description: Fun Tweaks by Ytterstad
 SHA256:
- 49703e23e2298a8acee153cc6ddd52800bc0ada58938a11dc0d79d2c8e3b7df3 2462 Packages
- 93092e66175d86bb0d5514efc0369da5dbdf1f25c5188b2172bab83d0b51e33f 1137 Packages.bz2
- 1912208c74b3940a9de6b4f7e501a7dd16b0909ea6ca58c5ef737dcde59de859 1028 Packages.xz
+ 3ecdcb4fc3427aac8938192e8405c5c6e92469f8ebedf786e45589c648134428 788 Packages
+ 1dbcdcef6f6fd358075b8773f48c7240da1dc18582e6b70e73764a169eb6ef66 514 Packages.bz2
+ f45ab4be1131fe804ed4cff97dc97ceb36eea5e01c6a262605484e6efad26a0a 504 Packages.xz

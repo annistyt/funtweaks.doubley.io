@@ -1,60 +1,25 @@
-Architecture: iphoneos-arm64
-Package: com.andreas.issbypass
-Name: IOSSecuritySuite Bypass
-Version: 1.0-1+debug
-Depiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/web/com.andreas.issbypass.html
-SileoDepiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/native/com.andreas.issbypass.json
-ModernDepiction: https://annistyt.github.io/funtweaks.doubley.io/depiction/native/com.andreas.issbypass.json
-Icon: https://annistyt.github.io/funtweaks.doubley.io/assets/com.andreas.issbypass/icon.png
-Description: Bypasser IOSSecuritySuite sin jailbreak/debug-deteksjon
-Homepage: https://shuga.co/
-Section: Tweaks
-Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhooker-devel | substitute
-Tags: compatible_min::ios15.0, compatible_max::ios16.7, compatible_min_ios :: 14.0
-Author: Andreas <annistyt@gmail.com>
-Maintainer: Andreas <annistyt@gmail.com>
-Filename: pkg/com.andreas.issbypass.deb
-Size: 6180
-SHA256: b0ea8764352b2c50cc79bf85ca3eb558fe1e9fd654596a9cd02bc219a7cfb085
-
 Package: com.ytterstad.gpsjoystick
-Name: GpsJoystick
-Description: GPS location spoofer with in-game joystick overlay
-Maintainer: Ytterstad
-Author: Ytterstad
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
 Version: 1.0
-Installed-Size: 172
-Filename: pkg/com.ytterstad.gpsjoystick_1.0_iphoneos-arm64.deb
-Size: 13244
-SHA256: 10f503bbdbb61db9ba923ff4ec8a63f32ae815f3ab2e4aee1fdbcac4d513f3ac
-
-Package: com.ytterstad.michelinmenu
-Name: MichelinMenu
-Depends: mobilesubstrate
-Description: All-in-one tweak — zoom, plant loader, boost, filters, expiry labels, bot/player hiding, live player counter, UI menu. By Ytterstad.
-Maintainer: Ytterstad
-Author: Ytterstad
-Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 2.0.0
-Installed-Size: 304
-Filename: pkg/com.ytterstad.michelinmenu_2.0.0_iphoneos-arm64.deb
-Size: 45690
-SHA256: eadbbe9271b6db0e3e9b4e75d23e12fe5f22568d477714bf65120d8e88564e2f
+Maintainer: Ytterstad
+Filename: ./pkg/com.ytterstad.gpsjoystick_1.0_iphoneos-arm64.deb
+Size: 14820
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: GPS Joystick tweak for Cheapshot
+Name: GpsJoystick
 
 Package: com.ytterstad.michelinnative
-Name: MichelinNative
-Description: Native ObjC tweak — zoom, boost, filters, expiry labels, bot/player hiding, live player counter, GPS joystick, auto upgrade, ISS bypass, UI menu. By Ytterstad.
-Maintainer: Ytterstad
-Author: Ytterstad
-Section: Tweaks
-Depends: mobilesubstrate
+Version: 3.0.0
 Architecture: iphoneos-arm64
-Version: 2.4.0
-Installed-Size: 140
-Filename: pkg/com.ytterstad.michelinnative_2.4.0_iphoneos-arm64.deb
-Size: 35972
-SHA256: c3b91ee7bfb031838d8c1d6ed6f79f6812ddc712a0843fc0de48a73ef365b595
+Maintainer: Ytterstad
+Depends: mobilesubstrate
+Filename: ./pkg/com.ytterstad.michelinnative_3.0.0_iphoneos-arm64.deb
+Size: 24416
+MD5sum: c06df81dd300f706e8ea8fcfd3d844ef
+SHA256: 07eb867c3da61f5bf7233c5858c49ef99031859fadb99370f9ec62c79d31a7ab
+Section: Tweaks
+Description: Cheapshot Michelin Menu — by Ytterstad
+Name: MichelinNative
+
