@@ -45,3 +45,16 @@ Filename: pkg/com.ytterstad.michelinmenu_2.0.0_iphoneos-arm64.deb
 Size: 45690
 SHA256: eadbbe9271b6db0e3e9b4e75d23e12fe5f22568d477714bf65120d8e88564e2f
 
+Package: com.ytterstad.michelinnative
+Name: MichelinNative
+Description: Native ObjC tweak — zoom, boost, filters, expiry labels, bot/player hiding, live player counter, GPS joystick, auto upgrade, UI menu. By Ytterstad.
+Maintainer: Ytterstad
+Author: Ytterstad
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2.1.0
+Installed-Size: 164
+Filename: pkg/com.ytterstad.michelinnative_2.1.0_iphoneos-arm64.deb
+Size: 31620
+SHA256: 9776be639f4786b8186181c470f2750b90af828198e133e7bad2ccc11f0624c0
