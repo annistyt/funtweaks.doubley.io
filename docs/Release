@@ -1,12 +1,12 @@
-Origin: Ytterstad
-Label: Ytterstad's Tweaks
+Origin: FunTweaks by Ytterstad
+Label: FunTweaks
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: main
 Architectures: iphoneos-arm64
 Components: main
-Description: Fun Tweaks by Ytterstad
-SHA256:
- 655894d76ce12d73a5c5e8a5ed8d7e492597d9f49fe68333b753f8d4041d0c6b 788 Packages
- 3b727d580d19911b22286f22bcb84f2cbeb31b07f37e4f3e19304f9482e905d1 513 Packages.bz2
- a1bf964d812b40c2888b2aea80ec7a2c0dcd1d654ac7ba2fe7043f38fd0fbbbc 508 Packages.xz
+Description: FunTweaks Repo by Ytterstad
+MD5Sum:
+ d84baff6075584c58e10888346c70e9a 852 Packages
+ 5f08d25aae134b3e3af704da22a6bb66 550 Packages.bz2
+ 36eb27a478126c4eb10e3476d7deaca0 528 Packages.xz

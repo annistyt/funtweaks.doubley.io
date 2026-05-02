@@ -1,13 +1,14 @@
 Package: com.ytterstad.gpsjoystick
-Version: 1.0
+Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: Ytterstad
-Filename: ./pkg/com.ytterstad.gpsjoystick_1.0_iphoneos-arm64.deb
-Size: 14820
-MD5sum: d41d8cd98f00b204e9800998ecf8427e
-SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Depends: mobilesubstrate
+Filename: ./pkg/com.ytterstad.gpsjoystick_3.0_iphoneos-arm64.deb
+Size: 24020
+MD5sum: 20b408d41c156e042bb9c57e00e32065
+SHA256: 53d53585744ce3c6ca7c942937e3be35efe0fed8ca3a1daf28e87d57c4e053d0
 Section: Tweaks
-Description: GPS Joystick tweak for Cheapshot
+Description: GPS Joystick — analog joystick, 6 speed presets, bookmarks, auto-walk
 Name: GpsJoystick
 
 Package: com.ytterstad.michelinnative
