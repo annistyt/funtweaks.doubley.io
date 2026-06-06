@@ -1,5 +1,18 @@
 Package: com.michelin.gpsjoystick
 Name: GpsJoystick
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Depends: mobilesubstrate
+Section: Tweaks
+Description: GPS location spoofer — analog joystick, 6 speed presets, bookmarks, auto-walk, search, persistent position restore on startup
+Size: 35560
+MD5sum: a74816326f62b9d7eee62f26148db792
+SHA256: f057f021f670f1284e0cb79ba5061e4e7c9da47f7e122e6eadcc003c65c1456b
+Filename: pkg/com.michelin.gpsjoystick_3.1_iphoneos-arm64.deb
+
+Package: com.michelin.gpsjoystick
+Name: GpsJoystick
 Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: Michelin
